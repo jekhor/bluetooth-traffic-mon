@@ -1,0 +1,1070 @@
+PCBNEW-LibModule-V1  Вс 09 фев 2014 15:20:53
+# encoding utf-8
+Units mm
+$INDEX
+SE-iMX287-Micro
+$EndINDEX
+$MODULE SE-iMX287-Micro
+Po 0 0 0 15 52F77298 00000000 ~~
+Li SE-iMX287-Micro
+Sc 0
+AR 
+Op 0 0 0
+T0 23.5 18.25 1 1 0 0.15 N V 21 N "SE-iMX287-Micro"
+T1 23.5 15 1 1 0 0.15 N V 21 N "VAL**"
+DS -1.25 -1 48.75 -1 0.15 21
+DS 48.75 -1 48.75 39 0.15 21
+DS 48.75 39 -1.25 39 0.15 21
+DS -1.25 39 -1.25 -1 0.15 21
+$PAD
+Sh "1" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "2" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 0
+$EndPAD
+$PAD
+Sh "3" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 2
+$EndPAD
+$PAD
+Sh "4" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 2
+$EndPAD
+$PAD
+Sh "5" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 4
+$EndPAD
+$PAD
+Sh "6" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 4
+$EndPAD
+$PAD
+Sh "7" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 6
+$EndPAD
+$PAD
+Sh "8" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 6
+$EndPAD
+$PAD
+Sh "9" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 8
+$EndPAD
+$PAD
+Sh "10" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 8
+$EndPAD
+$PAD
+Sh "11" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 10
+$EndPAD
+$PAD
+Sh "12" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 10
+$EndPAD
+$PAD
+Sh "13" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 12
+$EndPAD
+$PAD
+Sh "14" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 12
+$EndPAD
+$PAD
+Sh "15" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 14
+$EndPAD
+$PAD
+Sh "16" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 14
+$EndPAD
+$PAD
+Sh "17" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 16
+$EndPAD
+$PAD
+Sh "18" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 16
+$EndPAD
+$PAD
+Sh "19" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 18
+$EndPAD
+$PAD
+Sh "20" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 18
+$EndPAD
+$PAD
+Sh "21" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 20
+$EndPAD
+$PAD
+Sh "22" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 20
+$EndPAD
+$PAD
+Sh "23" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 22
+$EndPAD
+$PAD
+Sh "24" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 22
+$EndPAD
+$PAD
+Sh "25" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 24
+$EndPAD
+$PAD
+Sh "26" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 24
+$EndPAD
+$PAD
+Sh "27" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 26
+$EndPAD
+$PAD
+Sh "28" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 26
+$EndPAD
+$PAD
+Sh "29" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 28
+$EndPAD
+$PAD
+Sh "30" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 28
+$EndPAD
+$PAD
+Sh "31" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 30
+$EndPAD
+$PAD
+Sh "32" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 30
+$EndPAD
+$PAD
+Sh "33" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 32
+$EndPAD
+$PAD
+Sh "34" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 32
+$EndPAD
+$PAD
+Sh "35" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 34
+$EndPAD
+$PAD
+Sh "36" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 34
+$EndPAD
+$PAD
+Sh "37" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 36
+$EndPAD
+$PAD
+Sh "38" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 36
+$EndPAD
+$PAD
+Sh "39" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 38
+$EndPAD
+$PAD
+Sh "40" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 38
+$EndPAD
+$PAD
+Sh "41" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 4.75 38
+$EndPAD
+$PAD
+Sh "42" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 4.75 36
+$EndPAD
+$PAD
+Sh "43" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.75 38
+$EndPAD
+$PAD
+Sh "44" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.75 36
+$EndPAD
+$PAD
+Sh "45" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.75 38
+$EndPAD
+$PAD
+Sh "46" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.75 36
+$EndPAD
+$PAD
+Sh "47" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.75 38
+$EndPAD
+$PAD
+Sh "48" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.75 36
+$EndPAD
+$PAD
+Sh "49" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12.75 38
+$EndPAD
+$PAD
+Sh "50" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12.75 36
+$EndPAD
+$PAD
+Sh "51" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 14.75 38
+$EndPAD
+$PAD
+Sh "52" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 14.75 36
+$EndPAD
+$PAD
+Sh "53" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16.75 38
+$EndPAD
+$PAD
+Sh "54" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16.75 36
+$EndPAD
+$PAD
+Sh "55" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 18.75 38
+$EndPAD
+$PAD
+Sh "56" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 18.75 36
+$EndPAD
+$PAD
+Sh "57" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 20.75 38
+$EndPAD
+$PAD
+Sh "58" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 20.75 36
+$EndPAD
+$PAD
+Sh "59" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 22.75 38
+$EndPAD
+$PAD
+Sh "60" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 22.75 36
+$EndPAD
+$PAD
+Sh "61" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 24.75 38
+$EndPAD
+$PAD
+Sh "62" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 24.75 36
+$EndPAD
+$PAD
+Sh "63" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 26.75 38
+$EndPAD
+$PAD
+Sh "64" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 26.75 36
+$EndPAD
+$PAD
+Sh "65" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 28.75 38
+$EndPAD
+$PAD
+Sh "66" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 28.75 36
+$EndPAD
+$PAD
+Sh "67" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 30.75 38
+$EndPAD
+$PAD
+Sh "68" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 30.75 36
+$EndPAD
+$PAD
+Sh "69" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 32.75 38
+$EndPAD
+$PAD
+Sh "70" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 32.75 36
+$EndPAD
+$PAD
+Sh "71" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 34.75 38
+$EndPAD
+$PAD
+Sh "72" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 34.75 36
+$EndPAD
+$PAD
+Sh "73" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 36.75 38
+$EndPAD
+$PAD
+Sh "74" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 36.75 36
+$EndPAD
+$PAD
+Sh "75" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 38.75 38
+$EndPAD
+$PAD
+Sh "76" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 38.75 36
+$EndPAD
+$PAD
+Sh "77" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 40.75 38
+$EndPAD
+$PAD
+Sh "78" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 40.75 36
+$EndPAD
+$PAD
+Sh "79" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 42.75 38
+$EndPAD
+$PAD
+Sh "80" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 42.75 36
+$EndPAD
+$PAD
+Sh "81" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 45.5 38
+$EndPAD
+$PAD
+Sh "82" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 47.5 38
+$EndPAD
+$PAD
+Sh "83" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 45.5 36
+$EndPAD
+$PAD
+Sh "84" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 47.5 36
+$EndPAD
+$PAD
+Sh "85" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 45.5 34
+$EndPAD
+$PAD
+Sh "86" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 47.5 34
+$EndPAD
+$PAD
+Sh "87" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 45.5 32
+$EndPAD
+$PAD
+Sh "88" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 47.5 32
+$EndPAD
+$PAD
+Sh "89" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 45.5 30
+$EndPAD
+$PAD
+Sh "90" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 47.5 30
+$EndPAD
+$PAD
+Sh "91" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 45.5 28
+$EndPAD
+$PAD
+Sh "92" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 47.5 28
+$EndPAD
+$PAD
+Sh "93" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 45.5 26
+$EndPAD
+$PAD
+Sh "94" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 47.5 26
+$EndPAD
+$PAD
+Sh "95" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 45.5 24
+$EndPAD
+$PAD
+Sh "96" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 47.5 24
+$EndPAD
+$PAD
+Sh "97" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 45.5 22
+$EndPAD
+$PAD
+Sh "98" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 47.5 22
+$EndPAD
+$PAD
+Sh "99" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 45.5 20
+$EndPAD
+$PAD
+Sh "100" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 47.5 20
+$EndPAD
+$PAD
+Sh "101" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 45.5 18
+$EndPAD
+$PAD
+Sh "102" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 47.5 18
+$EndPAD
+$PAD
+Sh "103" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 45.5 16
+$EndPAD
+$PAD
+Sh "104" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 47.5 16
+$EndPAD
+$PAD
+Sh "105" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 45.5 14
+$EndPAD
+$PAD
+Sh "106" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 47.5 14
+$EndPAD
+$PAD
+Sh "107" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 45.5 12
+$EndPAD
+$PAD
+Sh "108" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 47.5 12
+$EndPAD
+$PAD
+Sh "109" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 45.5 10
+$EndPAD
+$PAD
+Sh "110" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 47.5 10
+$EndPAD
+$PAD
+Sh "111" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 45.5 8
+$EndPAD
+$PAD
+Sh "112" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 47.5 8
+$EndPAD
+$PAD
+Sh "113" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 45.5 6
+$EndPAD
+$PAD
+Sh "114" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 47.5 6
+$EndPAD
+$PAD
+Sh "115" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 45.5 4
+$EndPAD
+$PAD
+Sh "116" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 47.5 4
+$EndPAD
+$PAD
+Sh "117" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 45.5 2
+$EndPAD
+$PAD
+Sh "118" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 47.5 2
+$EndPAD
+$PAD
+Sh "119" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 45.5 0
+$EndPAD
+$PAD
+Sh "120" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 47.5 0
+$EndPAD
+$PAD
+Sh "121" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 32.75 2
+$EndPAD
+$PAD
+Sh "122" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 32.75 0
+$EndPAD
+$PAD
+Sh "123" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 30.75 2
+$EndPAD
+$PAD
+Sh "124" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 30.75 0
+$EndPAD
+$PAD
+Sh "125" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 28.75 2
+$EndPAD
+$PAD
+Sh "126" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 28.75 0
+$EndPAD
+$PAD
+Sh "127" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 26.75 2
+$EndPAD
+$PAD
+Sh "128" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 26.75 0
+$EndPAD
+$PAD
+Sh "129" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 24.75 2
+$EndPAD
+$PAD
+Sh "130" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 24.75 0
+$EndPAD
+$PAD
+Sh "131" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 22.75 2
+$EndPAD
+$PAD
+Sh "132" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 22.75 0
+$EndPAD
+$PAD
+Sh "133" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 20.75 2
+$EndPAD
+$PAD
+Sh "134" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 20.75 0
+$EndPAD
+$PAD
+Sh "135" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 18.75 2
+$EndPAD
+$PAD
+Sh "136" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 18.75 0
+$EndPAD
+$PAD
+Sh "137" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16.75 2
+$EndPAD
+$PAD
+Sh "138" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16.75 0
+$EndPAD
+$PAD
+Sh "139" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 14.75 2
+$EndPAD
+$PAD
+Sh "140" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 14.75 0
+$EndPAD
+$PAD
+Sh "141" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12.75 2
+$EndPAD
+$PAD
+Sh "142" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12.75 0
+$EndPAD
+$PAD
+Sh "143" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.75 2
+$EndPAD
+$PAD
+Sh "144" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.75 0
+$EndPAD
+$PAD
+Sh "145" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.75 2
+$EndPAD
+$PAD
+Sh "146" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.75 0
+$EndPAD
+$PAD
+Sh "147" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.75 2
+$EndPAD
+$PAD
+Sh "148" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.75 0
+$EndPAD
+$PAD
+Sh "149" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 4.75 2
+$EndPAD
+$PAD
+Sh "150" C 1 1 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 4.75 0
+$EndPAD
+$EndMODULE SE-iMX287-Micro
+$EndLIBRARY

@@ -1,0 +1,15 @@
+EESchema-LIBRARY Version 2.3  Date: Вт 04 мар 2014 22:51:33
+#encoding utf-8
+#
+# WT11I
+#
+DEF WT11I M 0 40 Y Y 1 F N
+F0 "M" 0 0 60 H V C CNN
+F1 "WT11I" 0 0 60 H V C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+ENDDRAW
+ENDDEF
+#
+#End Library

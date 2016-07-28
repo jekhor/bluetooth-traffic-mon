@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0  Date: Сб 08 фев 2014 14:11:04
+#
+$CMP SIM900
+D SIM900, GSM Quad-Band Communication Module, GPRS, Audio Engine, AT Command Set
+K GSM GPRS Quad-Band SMS FAX
+F http://www.simcom.us/act_admin/supportfile/SIM900_HD_V1.01(091226).pdf
+$ENDCMP
+#
+$CMP SIM900R
+D SIM900, GSM Quad-Band Communication Module, GPRS, Audio Engine, AT Command Set
+K GSM GPRS Quad-Band SMS FAX
+F http://www.simcom.us/act_admin/supportfile/SIM900_HD_V1.01(091226).pdf
+$ENDCMP
+#
+#End Doc Library

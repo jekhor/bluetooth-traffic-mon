@@ -1,0 +1,687 @@
+PCBNEW-LibModule-V1  Ср 05 мар 2014 00:06:22
+# encoding utf-8
+Units mm
+$INDEX
+SIM68V
+SIM900
+$EndINDEX
+$MODULE SIM68V
+Po 0 0 0 15 5314B460 00000000 ~~
+Li SIM68V
+Sc 0
+AR /52F0BE49/52F1F34C
+Op 0 0 0
+.LocalClearance 0.2
+T0 6.3 7.8 1 1 0 0.15 N V 21 N "M2"
+T1 6.3 5.8 1 1 0 0.15 N V 21 N "SIM68V"
+DS 0 0 12.2 0 0.15 21
+DS 12.2 0 12.2 16 0.15 21
+DS 12.2 16 0 16 0.15 21
+DS 0 16 0 0 0.15 21
+$PAD
+Sh "1" R 1.6 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 1
+$EndPAD
+$PAD
+Sh "2" R 1.6 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 2.1
+$EndPAD
+$PAD
+Sh "3" R 1.6 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 1 "/Main CPU module/GPS_PPS"
+Po 0 3.2
+$EndPAD
+$PAD
+Sh "4" R 1.6 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 4.3
+$EndPAD
+$PAD
+Sh "5" R 1.6 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 5.4
+$EndPAD
+$PAD
+Sh "6" R 1.6 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 6.5
+$EndPAD
+$PAD
+Sh "7" R 1.6 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 7.6
+$EndPAD
+$PAD
+Sh "8" R 1.6 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 10.6
+$EndPAD
+$PAD
+Sh "9" R 1.6 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 4 "N-00000206"
+Po 0 11.7
+$EndPAD
+$PAD
+Sh "10" R 1.6 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 8 "~"
+Po 0 12.8
+$EndPAD
+$PAD
+Sh "11" R 1.6 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 5 "N-00000212"
+Po 0 13.9
+$EndPAD
+$PAD
+Sh "12" R 1.6 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 8 "~"
+Po 0 15
+$EndPAD
+$PAD
+Sh "13" R 1.6 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 8 "~"
+Po 12.2 15
+$EndPAD
+$PAD
+Sh "14" R 1.6 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12.2 13.9
+$EndPAD
+$PAD
+Sh "15" R 1.6 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12.2 12.8
+$EndPAD
+$PAD
+Sh "16" R 1.6 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12.2 11.7
+$EndPAD
+$PAD
+Sh "17" R 1.6 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12.2 10.6
+$EndPAD
+$PAD
+Sh "18" R 1.6 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12.2 7.6
+$EndPAD
+$PAD
+Sh "19" R 1.6 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12.2 6.5
+$EndPAD
+$PAD
+Sh "20" R 1.6 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 7 "N-00000214"
+Po 12.2 5.4
+$EndPAD
+$PAD
+Sh "21" R 1.6 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 6 "N-00000213"
+Po 12.2 4.3
+$EndPAD
+$PAD
+Sh "22" R 1.6 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 3 "N-00000158"
+Po 12.2 3.2
+$EndPAD
+$PAD
+Sh "23" R 1.6 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 2 "/Power/GPS_PWR"
+Po 12.2 2.1
+$EndPAD
+$PAD
+Sh "24" R 1.6 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 8 "~"
+Po 12.2 1
+$EndPAD
+$EndMODULE SIM68V
+$MODULE SIM900
+Po 0 0 0 15 5305DCEC 00000000 ~~
+Li SIM900
+Sc 0
+AR 
+Op 0 0 0
+.LocalClearance 0.2
+T0 1.5 14.1 1 1 0 0.15 N V 21 N "SIM900"
+T1 1.4 11 1 1 0 0.15 N V 21 N "VAL**"
+DS -7.3 14.8 -7.3 9.2 0.15 21
+DS -7.3 9.2 -1.7 9.2 0.15 21
+DS -1.7 9.2 -1.7 14.8 0.15 21
+DS -1.7 14.8 -7.3 14.8 0.15 21
+DC -0.5 4 -0.5 5 0.15 21
+DS -12 0 12 0 0.15 21
+DS 12 0 12 24 0.15 21
+DS -12 0 -12 24 0.15 21
+DS -12 24 12 24 0.15 21
+$PAD
+Sh "1" O 1.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -12 4
+.LocalClearance 0.2
+$EndPAD
+$PAD
+Sh "2" O 1.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -12 5
+.LocalClearance 0.2
+$EndPAD
+$PAD
+Sh "3" O 1.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -12 6
+$EndPAD
+$PAD
+Sh "4" O 1.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -12 7
+$EndPAD
+$PAD
+Sh "5" O 1.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -12 8
+$EndPAD
+$PAD
+Sh "6" O 1.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -12 9
+$EndPAD
+$PAD
+Sh "7" O 1.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -12 10
+$EndPAD
+$PAD
+Sh "8" O 1.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -12 11
+$EndPAD
+$PAD
+Sh "9" O 1.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -12 12
+$EndPAD
+$PAD
+Sh "10" O 1.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -12 13
+$EndPAD
+$PAD
+Sh "11" O 1.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -12 14
+$EndPAD
+$PAD
+Sh "12" O 1.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -12 15
+$EndPAD
+$PAD
+Sh "13" O 1.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -12 16
+$EndPAD
+$PAD
+Sh "14" O 1.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -12 17
+$EndPAD
+$PAD
+Sh "15" O 1.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -12 18
+$EndPAD
+$PAD
+Sh "16" O 1.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -12 19
+$EndPAD
+$PAD
+Sh "17" O 1.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -12 20
+$EndPAD
+$PAD
+Sh "18" O 1.6 0.6 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -8 24
+$EndPAD
+$PAD
+Sh "19" O 1.6 0.6 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7 24
+$EndPAD
+$PAD
+Sh "20" O 1.6 0.6 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6 24
+$EndPAD
+$PAD
+Sh "21" O 1.6 0.6 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5 24
+$EndPAD
+$PAD
+Sh "22" O 1.6 0.6 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4 24
+$EndPAD
+$PAD
+Sh "23" O 1.6 0.6 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3 24
+$EndPAD
+$PAD
+Sh "24" O 1.6 0.6 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2 24
+$EndPAD
+$PAD
+Sh "25" O 1.6 0.6 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1 24
+$EndPAD
+$PAD
+Sh "26" O 1.6 0.6 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 24
+$EndPAD
+$PAD
+Sh "27" O 1.6 0.6 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1 24
+$EndPAD
+$PAD
+Sh "28" O 1.6 0.6 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2 24
+$EndPAD
+$PAD
+Sh "29" O 1.6 0.6 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3 24
+$EndPAD
+$PAD
+Sh "30" O 1.6 0.6 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4 24
+$EndPAD
+$PAD
+Sh "31" O 1.6 0.6 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5 24
+$EndPAD
+$PAD
+Sh "32" O 1.6 0.6 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6 24
+$EndPAD
+$PAD
+Sh "33" O 1.6 0.6 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7 24
+$EndPAD
+$PAD
+Sh "34" O 1.6 0.6 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8 24
+$EndPAD
+$PAD
+Sh "35" O 1.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12 20
+$EndPAD
+$PAD
+Sh "36" O 1.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12 19
+$EndPAD
+$PAD
+Sh "37" O 1.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12 18
+$EndPAD
+$PAD
+Sh "38" O 1.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12 17
+$EndPAD
+$PAD
+Sh "39" O 1.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12 16
+$EndPAD
+$PAD
+Sh "40" O 1.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12 15
+$EndPAD
+$PAD
+Sh "41" O 1.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12 14
+$EndPAD
+$PAD
+Sh "42" O 1.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12 13
+$EndPAD
+$PAD
+Sh "43" O 1.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12 12
+$EndPAD
+$PAD
+Sh "44" O 1.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12 11
+$EndPAD
+$PAD
+Sh "45" O 1.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12 10
+$EndPAD
+$PAD
+Sh "46" O 1.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12 9
+$EndPAD
+$PAD
+Sh "47" O 1.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12 8
+$EndPAD
+$PAD
+Sh "48" O 1.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12 7
+$EndPAD
+$PAD
+Sh "49" O 1.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12 6
+$EndPAD
+$PAD
+Sh "50" O 1.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12 5
+$EndPAD
+$PAD
+Sh "51" O 1.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12 4
+$EndPAD
+$PAD
+Sh "52" O 1.6 0.6 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8 0
+$EndPAD
+$PAD
+Sh "53" O 1.6 0.6 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7 0
+$EndPAD
+$PAD
+Sh "54" O 1.6 0.6 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6 0
+$EndPAD
+$PAD
+Sh "55" O 1.6 0.6 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5 0
+$EndPAD
+$PAD
+Sh "56" O 1.6 0.6 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4 0
+$EndPAD
+$PAD
+Sh "57" O 1.6 0.6 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3 0
+$EndPAD
+$PAD
+Sh "58" O 1.6 0.6 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2 0
+$EndPAD
+$PAD
+Sh "59" O 1.6 0.6 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1 0
+$EndPAD
+$PAD
+Sh "60" O 1.6 0.6 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "61" O 1.6 0.6 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1 0
+$EndPAD
+$PAD
+Sh "62" O 1.6 0.6 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2 0
+$EndPAD
+$PAD
+Sh "63" O 1.6 0.6 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3 0
+$EndPAD
+$PAD
+Sh "64" O 1.6 0.6 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4 0
+$EndPAD
+$PAD
+Sh "65" O 1.6 0.6 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5 0
+$EndPAD
+$PAD
+Sh "66" O 1.6 0.6 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6 0
+$EndPAD
+$PAD
+Sh "67" O 1.6 0.6 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7 0
+$EndPAD
+$PAD
+Sh "68" O 1.6 0.6 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -8 0
+$EndPAD
+$EndMODULE SIM900
+$EndLIBRARY

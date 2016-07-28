@@ -1,0 +1,59 @@
+EESchema-LIBRARY Version 2.3  Date: Сб 08 фев 2014 13:55:49
+#encoding utf-8
+#
+# +3.3V
+#
+DEF +3.3V #PWR 0 40 Y Y 1 F P
+F0 "#PWR" 0 90 20 H I C CNN
+F1 "+3.3V" 0 90 30 H V C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+X +3.3V 1 0 0 0 U 20 20 0 0 W N
+P 4 0 1 0  0 0  0 30  0 30  0 30 N
+P 5 0 1 0  -10 15  0 60  10 15  0 40  -10 15 F
+ENDDRAW
+ENDDEF
+#
+# +5V
+#
+DEF +5V #PWR 0 40 Y Y 1 F P
+F0 "#PWR" 0 90 20 H I C CNN
+F1 "+5V" 0 90 30 H V C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+X +5V 1 0 0 0 U 20 20 0 0 W N
+P 4 0 1 0  0 0  0 30  0 30  0 30 N
+P 5 0 1 0  -10 15  0 60  10 15  0 40  -10 15 F
+ENDDRAW
+ENDDEF
+#
+# GND
+#
+DEF ~GND #PWR 0 40 Y Y 1 F P
+F0 "#PWR" 0 50 60 H I C CNN
+F1 "GND" 0 50 60 H I C CNN
+F2 "~" 0 50 60 H V C CNN
+F3 "~" 0 50 60 H V C CNN
+DRAW
+X ~ ~ 0 0 0 D 20 20 0 0 W N
+P 2 0 1 12  -45 -50  40 -50 N
+P 2 0 1 0  0 0  0 -50 N
+ENDDRAW
+ENDDEF
+#
+# PWR_FLAG
+#
+DEF PWR_FLAG #FLG 0 0 N N 1 F P
+F0 "#FLG" 0 95 30 H I C CNN
+F1 "PWR_FLAG" 0 180 30 H V C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+X pwr 1 0 0 0 U 20 20 0 0 w
+P 6 0 1 0  0 0  0 50  -75 100  0 150  75 100  0 50 N
+ENDDRAW
+ENDDEF
+#
+#End Library

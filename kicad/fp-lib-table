@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name bt-traffic-mon)(type KiCad)(uri "$(KIPRJMOD)/lib/bt-traffic-mon.pretty")(options "")(descr ""))
+)
